@@ -1,2 +1,2 @@
-Hii my name
-I'm ugandhar
+Hii my name is Ugandhar
+This is my first commit
